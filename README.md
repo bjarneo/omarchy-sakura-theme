@@ -6,10 +6,10 @@ Sakura is an elegant, high-contrast theme for Omarchy inspired by the delicate b
   <img src="logo.png" alt="Sakura Logo">
 </p>
 
-> Petals drift on morning breeze,
-> Code flows soft like cherry trees.
-> Pink and gold in harmony,
-> Sakura's grace sets mind at ease,
+> Petals drift on morning breeze,  
+> Code flows soft like cherry trees.  
+> Pink and gold in harmony,  
+> Sakura's grace sets mind at ease,  
 > Beauty blooms in each key pressed.  
 
 ## Screenshot
