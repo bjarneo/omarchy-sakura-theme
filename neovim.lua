@@ -1,12 +1,12 @@
 return {
 	{
-		dir = "~/.config/omarchy/themes/sakura/sakura.nvim",
-		name = "sakura",
+		"bjarneo/pixel.nvim",
+		name = "pixel",
 	},
 	{
 		"LazyVim/LazyVim",
 		opts = {
-			colorscheme = "sakura",
+			colorscheme = "pixel",
 		},
 	},
 }
