@@ -8,35 +8,35 @@ return {
             transparent = false,
             colors = {
                 -- Background colors
-                bg = "{background}",
-                bg_dark = "{background}",
-                bg_highlight = "{bright_black}",
+                bg = "#0d0509",
+                bg_dark = "#0d0509",
+                bg_highlight = "#9d8695",
 
                 -- Foreground colors
                 -- fg: Object properties, builtin types, builtin variables, member access, default text
-                fg = "{foreground}",
+                fg = "#ffffff",
                 -- fg_dark: Inactive elements, statusline, secondary text
-                fg_dark = "{white}",
+                fg_dark = "#f0eaed",
                 -- comment: Line highlight, gutter elements, disabled states
-                comment = "{bright_black}",
+                comment = "#9d8695",
 
                 -- Accent colors
                 -- red: Errors, diagnostics, tags, deletions, breakpoints
-                red = "{red}",
+                red = "#E85F6F",
                 -- orange: Constants, numbers, current line number, git modifications
-                orange = "{bright_red}",
+                orange = "#FF7A8A",
                 -- yellow: Types, classes, constructors, warnings, numbers, booleans
-                yellow = "{yellow}",
+                yellow = "#D4A882",
                 -- green: Comments, strings, success states, git additions
-                green = "{green}",
+                green = "#F29B9A",
                 -- cyan: Parameters, regex, preprocessor, hints, properties
-                cyan = "{cyan}",
+                cyan = "#E8C099",
                 -- blue: Functions, keywords, directories, links, info diagnostics
-                blue = "{blue}",
+                blue = "#D9A56C",
                 -- purple: Storage keywords, special keywords, identifiers, namespaces
-                purple = "{magenta}",
+                purple = "#D1B399",
                 -- magenta: Function declarations, exception handling, tags
-                magenta = "{bright_magenta}",
+                magenta = "#E3C5AB",
             },
         },
         config = function(_, opts)
